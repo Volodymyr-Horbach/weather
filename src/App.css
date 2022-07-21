@@ -9,13 +9,13 @@ p{
  margin: 0;
 }
 .App {
-  margin-top: 2rem;
+  margin-top: 0;
   text-align: center;
-  padding: 2rem 0rem;
+  padding: 1rem 0rem;
 }
 .App h1{
   width: fit-content;
-  font-size: 4.4rem;
+  font-size: 3.4rem;
   background-color: #2028ce1f;
   color: #a8ffd2;
   margin: 0 auto;
@@ -33,11 +33,11 @@ p{
     margin-bottom: 0.5rem;
   }
   .temp{
-    margin-bottom: 5rem;
-    font-size: 6rem;
+    margin-bottom: 2rem;
+    font-size: 4rem;
   }
   .temp span{
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 @media (max-width: 1025px){
